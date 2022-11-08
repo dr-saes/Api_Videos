@@ -113,6 +113,10 @@ ___________________________________________________________________
 
 
 
+### Método: GET (lista video por id da categoria) - "ROLE_ADMIN" e "ROLE_USUARIO"
+#### URL: /categorias/:{id}/videos
+
+
    
 ### Método: POST (cadastral um video) - "ROLE_ADMIN" e "ROLE_USUARIO"
 #### URL: /videos
