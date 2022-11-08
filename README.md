@@ -113,7 +113,7 @@ ___________________________________________________________________
 
 
 
-### Método: GET (lista video por id da categoria) - "ROLE_ADMIN" e "ROLE_USUARIO"
+### Método: GET (lista videos por id da categoria) - "ROLE_ADMIN" e "ROLE_USUARIO"
 #### URL: /categorias/:{id}/videos
 
 
