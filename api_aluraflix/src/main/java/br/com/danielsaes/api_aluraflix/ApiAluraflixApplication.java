@@ -9,6 +9,8 @@ public class ApiAluraflixApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(ApiAluraflixApplication.class, args);
+
     }
+
 
 }
